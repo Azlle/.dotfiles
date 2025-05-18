@@ -6,6 +6,7 @@
   networking.wireless = {
     enable = true;
     networks."Buffalo-A-DF70".pskRaw = "9acbae41bec47a8cad6449d3dfed0d2fe9dbc8cd9c34889055ad65f7c65b9ffb";
+  };
   networking.hostName = "necrofantasia";
 
   networking = {
